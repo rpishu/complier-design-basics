@@ -1,8 +1,8 @@
 # complier-design-basics
 COMPANY: CODTECH IT SOLUTIONS
 NAME: Rishu Priyadarshi
-INTERN ID:
-DURATION: 4WEEKS
+INTERN ID: CTO4DN1458
+DURATION: 4 WEEKS
 MENTOR: NEELA SANTHOSH KUMAR
 A compiler is software that translates or converts a program written in a high-level language (Source Language) into a low-level language (Machine Language or Assembly Language). Compiler design is the process of developing a compiler.
 
